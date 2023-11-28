@@ -4,7 +4,3 @@ import lombok.Value;
 public class Course {
 }
 
-public class UniversityService {
-
-
-}
