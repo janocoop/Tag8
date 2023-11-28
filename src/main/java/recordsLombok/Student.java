@@ -1,3 +1,5 @@
+package recordsLombok;
+
 import lombok.Getter;
 import lombok.Setter;
 

@@ -1,3 +1,5 @@
+package recordsLombok;
+
 import lombok.Value;
 
 @Value
